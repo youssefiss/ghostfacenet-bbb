@@ -1,5 +1,17 @@
 # 👁 GhostFaceNet — Reconnaissance Faciale Embarquée sur BeagleBone Black
 
+![CI/CD](https://img.shields.io/badge/CI%2FCD-passing-brightgreen?style=flat-square&logo=github-actions)
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![FaceRecognition](https://img.shields.io/badge/FaceRecognition-GhostFaceNet-orange?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-BeagleBoneBlack-red?style=flat-square)
+![Status](https://img.shields.io/badge/status-Active-success?style=flat-square)
+![TFLite](https://img.shields.io/badge/TFLite-INT8-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-2.x-000000?style=flat-square&logo=flask&logoColor=white)
+![Accuracy](https://img.shields.io/badge/Accuracy%20PC-98.7%25-brightgreen?style=flat-square)
+![Accuracy BBB](https://img.shields.io/badge/Accuracy%20BBB-76.8%25-yellow?style=flat-square)
+
 > Système de reconnaissance faciale temps réel basé sur **GhostFaceNet INT8 TFLite** déployé sur **BeagleBone Black** (ARM Cortex-A8 1GHz), avec dashboard Flask, capteur PIR et évaluation complète des performances.
 
 ---
